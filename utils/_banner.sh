@@ -36,13 +36,9 @@ print_banner() {
 
   printf "\n"
 
-  printf "${GREEN}";
-  printf("M       M  UU   UU  L         TTTTTTT  IIIII  ZZZZZ   AAAAA  PPPPP\n");
-    printf("MM     MM  UU   UU  L           TTT      I       ZZ  A     A P   P\n");
-    printf("M M   M M  UU   UU  L           TTT      I      ZZ   AAAAAAA PPPPP\n");
-    printf("M  M M  M  UU   UU  L           TTT      I     ZZ    A     A P\n");
-    printf("M   M   M   UUUUU   LLLLLLL     TTT     IIIII  ZZZZZ  A       A P\n");
-  printf "${NC}";
-
+    printf("*******************************\n");
+    printf("*        BEM-VINDO AO         *\n");
+    printf("*          MULTIZAP           *\n");
+    printf("*******************************\n");
   printf "\n"
 }
